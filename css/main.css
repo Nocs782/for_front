@@ -19,7 +19,7 @@ header {
 }
 nav{
 	float: right;
-	margin-top: 50px;
+	margin-top: 41px;
 }
 .menu{
 	padding: 0;
@@ -36,4 +36,16 @@ nav{
 	text-decoration: none;
 	text-transform: uppercase;
 	font-size: 14px;
+}
+.titles_first{
+	font-size: 40px;
+	color: white;
+	text-transform: uppercase;
+	text-align: center;
+}
+h1{
+	font-size: 75px;
+	color: white;
+	text-transform: uppercase;
+	text-align: center;
 }
