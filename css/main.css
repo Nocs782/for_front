@@ -101,7 +101,7 @@ h1{
 	margin-bottom:  5px;
 }
 .services_one p{
-	foint_size:  14px;
+	font-size:  14px;
 	color:  grey;
 	line-height: 1.55;
 }
@@ -136,17 +136,68 @@ h1{
 .works img:nth-child(2){
 	margin-left: 34px;
 }
-.imgwithtext {
-	display: inline-block;
-	width: 270px;
-	margin-top: 0;
-}	
-.last_section_text{
+
+.last_section_text p{
+	font-size:  14px;
+	color:  grey;
+	text-align: right;
+	line-height: 1.55;
+	margin: 0;
+	width: 83%;
+	float: right;
+	margin-bottom:  10px;
+}
+.last_section_text h3{
+	margin-top:  0;
+	margin-bottom:  4px;
 	text-align: right;
 }
-.img{
-	margin: 0 auto;
-}
 .halldiv{
-	margin-left: 94px;
+	padding-right:  209px;
+	margin-bottom: 100px;
+}
+.imgwithtext {
+	float: right;
+}
+
+.imgwithtext2 {
+	float: left;
+	width: 190px;
+	margin-left: 365px;
+}
+.hw_item{
+	display: inline-block;
+	width: 49%;
+}
+
+#just_for_margin{
+	margin-bottom:  70px;
+}
+.mirorred{
+	margin-bottom:  100px;
+	
+}
+.mirrored_last_text h3{
+	margin-top:  0;
+	margin-bottom:  4px;
+}
+
+.mirrored_last_text p{
+	font-size:  14px;
+	color:  grey;
+	line-height: 1.55;
+	margin: 0;
+	width: 90%;
+}
+
+#lastfooter{
+	margin-top: 50px;
+	margin-bottom:  50px;
+}
+
+.foot p { 
+	text-align: center ;
+	font-size:  14px;
+	color:  grey;
+
 }
